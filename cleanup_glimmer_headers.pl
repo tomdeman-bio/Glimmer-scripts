@@ -1,5 +1,7 @@
 #! /usr/bin/perl
 #clean fasta headers that come from glimmers multi extract
+#Written by Tom de Man
+
 use strict;
 
 my $file = shift;

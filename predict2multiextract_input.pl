@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 #convert Glimmer "predict" output files to suitable input files for the Multi extract utility
+#Written by Tom de Man
+
 use strict;
 
 my $file = shift;
